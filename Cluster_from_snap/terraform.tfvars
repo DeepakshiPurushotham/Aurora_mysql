@@ -1,0 +1,7 @@
+db_cluster_identifier = "aurora-cluster-demo"
+aws_db_subnet_group = "main"
+aws_security_group = "default-dbPort"
+cluster_identifier = "aurora-cluster-demo-new"
+master_username = ""
+master_password = ""
+instance_class  = "db.t3.medium"
